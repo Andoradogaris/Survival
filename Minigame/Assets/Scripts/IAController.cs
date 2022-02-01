@@ -15,7 +15,7 @@ public class IAController : Entity
     private bool canFollow;
     private bool canHit;
     private bool isDead;
-    private int animationToDo;
+    public int animationToDo;
 
     private void Update()
     {
@@ -40,9 +40,25 @@ public class IAController : Entity
                             }
                             anim.SetBool("canHit", true);
                             anim.SetBool("canRun", false);
-                            stats.TakeDamage(damage);
 
                             StartCoroutine(Hit());
+
+                            animationToDo = Random.Range(0, 3);
+
+                            if (animationToDo == 0)
+                            {
+                                anim.SetInteger("animationToDo", animationToDo);
+                            }
+                            else if (animationToDo == 1)
+                            {
+                                anim.SetInteger("animationToDo", animationToDo);
+                            }
+                            else
+                            {
+                                anim.SetInteger("animationToDo", animationToDo);
+                            }
+
+                            stats.TakeDamage(damage);
                         }
                     }
                 }
@@ -67,20 +83,6 @@ public class IAController : Entity
                         {
                             anim.SetBool("OnIdle", true);
                             anim.SetBool("canRun", false);
-                            animationToDo = Random.Range(0, 2);
-
-                            if(animationToDo == 0)
-                            {
-                                anim.SetFloat("animationToDo", 0);
-                            }
-                            else if(animationToDo == 1)
-                            {
-                                anim.SetFloat("animationToDo", 1);
-                            }
-                            else
-                            {
-                                anim.SetFloat("animationToDo", 2);
-                            }
                         }
                     }
                 }
