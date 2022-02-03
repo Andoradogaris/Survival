@@ -523,12 +523,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7036f6edf7d56dc488d891dcac8bfc7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  health: 0
+  maxHealth: 100
+  speed: 10
+  damage: 10
   agent: {fileID: 1178364390}
   stats: {fileID: 0}
   anim: {fileID: 9572582}
   offsetPosition: {fileID: 0}
   target: {fileID: 0}
-  damage: 10
+  animationToDo: 0
 --- !u!1 &133842
 GameObject:
   m_ObjectHideFlags: 0

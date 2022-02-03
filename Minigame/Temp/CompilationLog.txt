@@ -1,0 +1,52 @@
+# Starting compiling UnityEngine.TestRunner.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-400d58621eb4fe04b853272f5989f70a
+# Starting compiling UnityEngine.UI.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-ec85ed8e61b78e446b587871e7b9d5ac
+# Starting IL post processing on UnityEngine.TestRunner.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"C:/Users/Théo/Desktop/Survival/Minigame/Temp/UnityTempFile-45c0508be3398d84093d5170da620547"
+# Starting IL post processing on UnityEngine.UI.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"C:/Users/Théo/Desktop/Survival/Minigame/Temp/UnityTempFile-4c43199f00b3e6946b34986f82e09d6e"
+# Starting compiling Unity.Timeline.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-c826d0963e36e0c408e9aabeae635ec2
+# Starting compiling Unity.TextMeshPro.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-d27dc591319c1814abf7661a9e3f60fb
+# Starting compiling where-allocations.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-5ad19c6050ae1a246a4e73cb007ea6d6
+# Starting compiling Telepathy.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-b6c3c2438b6b5714ca15f4f9b6d18bfd
+# Starting IL post processing on where-allocations.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"C:/Users/Théo/Desktop/Survival/Minigame/Temp/UnityTempFile-5b6d66583d2ed9e4a93b1813ae722c67"
+# Starting compiling kcp2k.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-5a603c5451818d142a29ee7984d556f5
+# Starting IL post processing on Telepathy.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"C:/Users/Théo/Desktop/Survival/Minigame/Temp/UnityTempFile-0affff72f42eb674abc901ddc2719752"
+# Starting IL post processing on Unity.Timeline.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"C:/Users/Théo/Desktop/Survival/Minigame/Temp/UnityTempFile-3c53571e299334f46829be8a525316dc"
+# Starting IL post processing on Unity.TextMeshPro.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"C:/Users/Théo/Desktop/Survival/Minigame/Temp/UnityTempFile-531686e5e41276644962237a10f11abe"
+# Starting IL post processing on kcp2k.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"C:/Users/Théo/Desktop/Survival/Minigame/Temp/UnityTempFile-3c5a128f30d72934e989b2e94b25dce0"
+# Starting compiling Mirror.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-ecd2c064d9c6b134f92dae1e6be06f63
+# Starting IL post processing on Mirror.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"C:/Users/Théo/Desktop/Survival/Minigame/Temp/UnityTempFile-e11936723378a42479deafe23054eaa4"
+# Starting compiling Mirror.Authenticators.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-a6399bdea5b8a34488c1e90866a443ab
+# Starting compiling Mirror.Components.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-125cf028c6a6c394583091b1e3674d37
+# Starting compiling SimpleWebTransport.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-f1e29dbe66b628941bf5bbdb87f5ac17
+# Starting IL post processing on Mirror.Authenticators.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"C:/Users/Théo/Desktop/Survival/Minigame/Temp/UnityTempFile-15c7142aafe55db4daca3096908f7099"
+# Starting IL post processing on SimpleWebTransport.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"C:/Users/Théo/Desktop/Survival/Minigame/Temp/UnityTempFile-c5360316681f5de4f81a990fbc939ea1"
+# Starting IL post processing on Mirror.Components.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"C:/Users/Théo/Desktop/Survival/Minigame/Temp/UnityTempFile-0f8ef1103510c264aa3819115ca67705"
+# Starting compiling Mirror.Examples.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-97289f3b823bd104fa2564ef1673cf33
+# Starting IL post processing on Mirror.Examples.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"C:/Users/Théo/Desktop/Survival/Minigame/Temp/UnityTempFile-8c0f4eaaa7ad5744e9cac2d97bcc1d20"
+# Starting compiling Assembly-CSharp.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-27ff2fbaf9a6b2442bf77bf65e39c073
+# Starting IL post processing on Assembly-CSharp.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"C:/Users/Théo/Desktop/Survival/Minigame/Temp/UnityTempFile-0a947764c8c4b6c448727e13dbca87fc"

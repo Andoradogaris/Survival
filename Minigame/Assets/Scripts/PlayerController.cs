@@ -18,6 +18,11 @@ public class PlayerController : MonoBehaviour
 
     bool isGrounded;
 
+    private void Start()
+    {
+        stats = GameObject.Find("PlayerManager").GetComponent<Stats>();
+    }
+
     void Update()
     {
         isGrounded = Physics.CheckSphere(groundCheck.position, groundDistance, groundMask);
